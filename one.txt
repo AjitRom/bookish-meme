@@ -1,2 +1,6 @@
 Hello goodmoring everyone
 We accept everyone who wish to work
+
+
+Hi everyone , this is azadtom and i love working on new android project and 
+today i built simple chat application.
